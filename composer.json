@@ -14,8 +14,15 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": "~1.7",
-        "pshirmanov/bootstrap-fileinput": "~4.2"
+        "pshirmanov/bootstrap-fileinput": "dev-master"
     },
+    "repositories":
+    [
+      {
+        "type": "vcs",
+        "url": "http://github.com/pshirmanov/bootstrap-fileinput"
+      }
+    ],
     "autoload": {
         "psr-4": {
             "kartik\\file\\": ""
