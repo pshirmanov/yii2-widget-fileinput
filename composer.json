@@ -14,7 +14,7 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": "~1.7",
-        "pshirmanov/bootstrap-fileinput": "@dev"
+        "pshirmanov/bootstrap-fileinput": "4.3.8@dev"
     },
     "repositories":
     [
