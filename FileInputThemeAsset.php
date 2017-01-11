@@ -23,7 +23,7 @@ class FileInputThemeAsset extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/kartik-v/bootstrap-fileinput';
+    public $sourcePath = '@vendor/pshirmanov/bootstrap-fileinput';
 
     /**
      * @inheritdoc
