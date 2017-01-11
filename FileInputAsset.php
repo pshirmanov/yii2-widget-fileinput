@@ -24,7 +24,7 @@ class FileInputAsset extends AssetBundle
      */
     public function init()
     {
-        $this->setSourcePath('@vendor/kartik-v/bootstrap-fileinput');
+        $this->setSourcePath('@vendor/pshirmanov/bootstrap-fileinput');
         $this->setupAssets('css', ['css/fileinput']);
         $this->setupAssets('js', ['js/fileinput']);
         parent::init();
