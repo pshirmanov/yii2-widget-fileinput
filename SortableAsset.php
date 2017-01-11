@@ -24,7 +24,7 @@ class SortableAsset extends AssetBundle
      */
     public function init()
     {
-        $this->setSourcePath('@vendor/kartik-v/bootstrap-fileinput');
+        $this->setSourcePath('@vendor/pshirmanov/bootstrap-fileinput');
         $this->setupAssets('js', ['js/plugins/sortable']);
         parent::init();
     }
